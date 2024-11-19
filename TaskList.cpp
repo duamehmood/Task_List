@@ -2,8 +2,9 @@
 
 /* ***--------------------------------------------***
        FINAL PROJECT : TO - DO - LIST (TASK LIST)
+         NAME : DUA MEHMOOD
          ROLL NO : S23BDOCS1M01074 ( BSCS-2M )
-                SEMESTER : THIRD (3RD)
+         SEMESTER : THIRD (3RD)
    ***--------------------------------------------*** */
 
 #include <iostream>
